@@ -7,6 +7,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="index.css">
     <title>svg signature</title>
+
+    <style>
+
+        body {
+            background: hsl(0, 0%, 13%);
+            color: hsl(0, 0%, 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        #signature {
+            stroke-dasharray: 1188.5115966796875;
+            stroke-dashoffset: 1188.5115966796875;
+            animation: sign 4s ease;
+            animation-fill-mode: forwards;
+        }
+
+        @keyframes sign {
+            to {
+                stroke-dashoffset: 0;
+            }
+        }
+        
+    </style>
+
 </head>
 
 <body>
