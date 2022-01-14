@@ -8,3 +8,6 @@ Made with:
 - svg
 - html
 - css
+
+Done thanks to this video 🎬 :
+[click!](https://www.youtube.com/watch?v=LuWdeuPMHps&list=PL0vfts4VzfNigohKr5sPrkcPFpuZmTe2C&index=8)
